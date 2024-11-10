@@ -1,9 +1,7 @@
 <div align="center">
+  <h2><i>s/o/viet</i>, the continuation of the infamous s/e/x trick on Discord</h2>
   
-  <h2>SovietCord, the continuation of the "famous" s/e/x trick on Discord</h2>
-  
-  We have decided to revive this infamous trick, but **better**. Not only will our version work with tenor gifs, but also with ones from discord itself (e.g. media.discordapp.com)
-  
+  We have decided to revive this fun little trick, but <b>better</b>. Not only will our version work with tenor gifs, but also with ones from discord itself (e.g. media.discordapp.com)<br>
   <sub>For those that dont know, see <a href="https://knowyourmeme.com/memes/discord-sex-hack" target="_blank">here</a></sub>
 
   <!---
